@@ -1,1 +1,1 @@
-# Resilient AWS Infrastructure Lab
+# Resilient AWS Infrastructure Lab (Terraform)
